@@ -1,0 +1,10 @@
+name: cse6250project
+
+dependencies:
+  - python=3.6.5
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - numpy
+  - scipy=1.1.0
+prefix: /anaconda3/envs/cse6250project
